@@ -1,4 +1,4 @@
-#Knight Blade
+# Knight Blade
 # Face Recognition Based Attendance Monitoring System
 
 ## Overview
